@@ -1,0 +1,9 @@
+* aserve
+
+AllegroServe, a web server written in Common Lisp
+
+|---------+-----------------------------------------|
+| source  | git:https://github.com/gendl/aserve.git |
+| commit  | 2432d6e                                 |
+| systems | aserve                                  |
+|---------+-----------------------------------------|
