@@ -2,8 +2,8 @@
 
 AllegroServe, a web server written in Common Lisp
 
-|---------+-----------------------------------------|
-| source  | git:https://github.com/gendl/aserve.git |
-| commit  | 2432d6e                                 |
-| systems | zaserve                                 |
-|---------+-----------------------------------------|
+|---------+-------------------------------------------------------------------------------------------------------------------|
+| source  | file:https://sourceforge.net/projects/portableaserve/files/portableaserve/portableaserve-1.2.35/portableaserve-1.2.35.tar.gz |
+| version | 1.2.35                                                                                                            |
+| systems | aserve                                                                                                            |
+|---------+-------------------------------------------------------------------------------------------------------------------|
